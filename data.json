@@ -1,0 +1,14 @@
+[
+  {
+    "year": 2050,
+    "scenario": "RCP2.6",
+    "temperature": 2.5,
+    "precipitation": 15
+  },
+  {
+    "year": 2080,
+    "scenario": "SSP3",
+    "temperature": 4.0,
+    "precipitation": 20
+  }
+]
